@@ -1,7 +1,7 @@
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:8761/eureka
+      defaultZone: http://119.29.199.151:8761/eureka
     register-with-eureka: false
   server:
     enable-self-preservation: false
